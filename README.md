@@ -1,2 +1,2 @@
 # hacktober
-### My name is beYOUNG
+### My name is beyoung
